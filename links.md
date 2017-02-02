@@ -1,4 +1,4 @@
- Command | Description 
+ URL | Title
  --- | --- 
 https://www.theregister.co.uk/2017/02/01/government_industrial_strategy_is_not/ | 'Mafia' of ageing scientists, academics and politicos suck at picking tech 'winners' • The Register
 https://www.theregister.co.uk/2017/02/02/mits_invisible_eellike_robots_catch_fish/ | Watch: MIT's terrifying invisible gel robo-eels snatch live fish • The Register
